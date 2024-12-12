@@ -92,7 +92,7 @@ http://mohitweb.zapto.org:7878/live/high/522.m3u8
 #EXTINF:-1 tvg-id=524 tvg-name="Sony Ten 3 Hindi" tvg-logo="http://mohitweb.zapto.org:7878/jtvimage/Ten_3.png" tvg-language="Hindi" tvg-type="Sports" group-title="Hindi", Sony Ten 3 Hindi
 http://mohitweb.zapto.org:7878/live/high/524.m3u8
 #EXTINF:-1 tvg-id=527 tvg-name="Investigation Discovery" tvg-logo="http://mohitweb.zapto.org:7878/jtvimage/ID.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Hindi", Investigation Discovery
-http://mohitweb.zapto.org:7878/live/high/527.m3u8
+http://mohitweb.zapto.org:7878/live/high&hindi/527.m3u8
 #EXTINF:-1 tvg-id=528 tvg-name="DD India" tvg-logo="http://mohitweb.zapto.org:7878/jtvimage/DD_India.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Hindi", DD India
 http://mohitweb.zapto.org:7878/live/high/528.m3u8
 #EXTINF:-1 tvg-id=529 tvg-name="News18 MP" tvg-logo="http://mohitweb.zapto.org:7878/jtvimage/ETV_MP.png" tvg-language="Hindi" tvg-type="News" group-title="Hindi", News18 MP
