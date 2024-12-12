@@ -1,0 +1,13 @@
+#EXTM3U x-tvg-url="https://tsepg.cf/jio.xml.gz"
+#DEVELOPED_BY_JITENDRA_PRO_DEV
+#AUTHOR:- temp
+#DATE:- Sunday 25th of August 2024 08:47:14 AM
+
+#EXTINF:-1 tvg-id="575" tvg-name="Discovery Hindi " tvg-type="Infotainment" group-title="Infotainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png",Discovery Hindi
+http://192.168.29.196:5350/play/575?q=h&c=HINDI/
+
+#EXTINF:-1 tvg-id="575" tvg-name="Discovery Hindi " tvg-type="Infotainment" group-title="Infotainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png",Discovery Hindi
+http://192.168.29.196:5350/play/575?q=h&c=HINDI/
+
+#EXTINF:-1 tvg-id="575" tvg-name="Discovery Hindi " tvg-type="Infotainment" group-title="Infotainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png",Discovery Hindi
+http://192.168.29.196:5350/play/575?q=h&c=HINDI/
