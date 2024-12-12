@@ -9,6 +9,8 @@ http://mohitweb.zapto.org:7878/render.m3u8?auth=Q2vqHcTYj1XtNTHRhYhJ-B2FqaFiJdwh
 #EXTINF:-1 tvg-id="575" tvg-name="Discovery Hindi " tvg-type="Infotainment" group-title="Infotainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png",Discovery Hindi
 http://mohitweb.zapto.org:7878/render.m3u8?auth=c1F_IWCyfyy59yMxAIguu289rrapwRQGwRvTN8KH7SlG-mINlJ7VE5i3z_MBGtgVDTzNScBOde4Gn4a8pz4oZkniXIboCYhiQ5SKoPto5YBtBdrTWIjYmgYEXkM8l6lk43bksii2DMLn1SaY-rA0QTabGvqzpCEPkIY4P445uPwlBZGH7gqoRoTH4Jg9Yp0C5GQUTpVR9iVhC2cxAQHOPf5Tw8_oQn2HVHhGe6F7sg4y9R2j3tUah51fcIw36ZANCBisjPaVgCZT7TiF8k0S6YhBsMS9-lOM_biuZjGkTRrTZz3rkt-oEkmil1SioT5KefxSJ4TPNfHe8poHW04QlVxqJVoFVirNVmr62Qs576TzPp_Fuoi1AaJSUk4HYCxv-pJM7xeKzo_5t9Uw_NWatsKHzDWj6ULMoH3QPOphvF_T6l5-SY5T567dje-xx2PvK1SCiGMTRGStpboUDgQ=&channel_key_id=575
 
+#EXTINF:-1 tvg-id="575" tvg-name="Discovery Hindi " tvg-type="Infotainment" group-title="Infotainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png",Discovery Hindi
+http://mohitweb.zapto.org:7878/render.m3u8?auth=tHer-TRoaPsWl7pgAOcvMB4gwSfo4D0j8RQ4FBOoci6pCYvbIiY8i6LA6SzplgQSIplX4tqW4DtZfBxOsKrvac_mn907xAiS7clC5Cb99ltqIjz7-E4s9r9H-pPM3IodGNTMpdnUUSCDaQQnLh2mrSGnJudaJHj8Wa8tfbaT_jinmHGtlMPbnu_ENDLwbHAvn0UD6RMIa6xSpW0wQ35udsp8Gtl3M6hiI8K8-sg-LGCuv6G9ORfu3JeU4WEn1IFGqtwKSH0BR8fDCHPRJOUcPEHvKFhrQBylrZOv5HnTR3GxaxCmsU_jcKzWsCBavFUuA0LMoZvqrLZZ7m3F6WG0YB06LHR8H52F3Pg-X9scepnb52tQQ5s6gIPzumvfUJkVrqqgXQ==&channel_key_id=575
 
 #EXTINF:-1 tvg-id=173 tvg-name="Aaj Tak" tvg-logo="http://mohitweb.zapto.org:7878/jtvimage/Aaj_Tak.png" tvg-language="Hindi" tvg-type="News" group-title="News", Aaj Tak
 http://mohitweb.zapto.org:7878/live/173.m3u8
