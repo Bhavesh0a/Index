@@ -25,7 +25,4 @@ http://mohitweb.zapto.org:7878/live/173.m3u8?q=h&c=HINDI/
 http://mohitweb.zapto.org:7878/live/173.m3u8?q=h
 
 #EXTINF:-1 tvg-id=173 tvg-name="Aaj Tak" tvg-logo="http://mohitweb.zapto.org:7878/jtvimage/Aaj_Tak.png" tvg-language="Hindi" tvg-type="News" group-title="News", Aaj Tak
-http://mohitweb.zapto.org:7878/live/173.m3u8?q=h/
-
-#EXTINF:-1 tvg-id=173 tvg-name="Aaj Tak" tvg-logo="http://mohitweb.zapto.org:7878/jtvimage/Aaj_Tak.png" tvg-language="Hindi" tvg-type="News" group-title="News", Aaj Tak
 http://mohitweb.zapto.org:7878/live/173.m3u8?q=high
