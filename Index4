@@ -4,9 +4,6 @@
 #DATE:- Sunday 25th of August 2024 08:47:14 AM
 
 #EXTINF:-1 tvg-id="575" tvg-name="Discovery Hindi " tvg-type="Infotainment" group-title="Infotainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png",Discovery Hindi
-http://192.168.29.196:5350/play/575?q=h&c=HINDI/
-
-#EXTINF:-1 tvg-id="575" tvg-name="Discovery Hindi " tvg-type="Infotainment" group-title="Infotainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png",Discovery Hindi
 mohitweb.zapto.org:7878/render.m3u8?auth=mMmqnuLYgH-p4fjAF1OlWTbE7UK803XQjlb2ANmTjQBzRKKlaAFtvMiLrDu1mvkz0AGi-7wFJd8nNLXkez57QI8G2Al91MIw_44tKCSv1ujvJZxnTH1K6HniIW7CFeCGTsTVYeux68qNrlQ6s3hRmeetQ83GNDX6P7yGFzGTqNnfpZaQJNBq_0KwR1VnQnMGpsxBkjtB7WAUIHwVkgJYiMo9GsGzlW8Gwaxuqe8Mm2B4D4pggvc_FigJJgOhrQonzgkx5Rn-3qhKVgcBj40TMQtz2Su1hrYUroOZR6Xeb_Kl49NWyHxeTX3wf61_53Ki3BlA7wI9EjlAyn293HSqEKb4kwCQ2YbAuRwY-E59auIvb1OGvCBfz53lwYEQsx0aWo5wwrtvFUuWivTYv7ogULGALQWFGhaSkq7Jw6-yGVT5wJz8TKh4jv_dv79TfAo2II-FO7TGmx6fmOSHYQ==&channel_key_id=575
 
 #EXTINF:-1 tvg-id="575" tvg-name="Discovery Hindi " tvg-type="Infotainment" group-title="Infotainment" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png",Discovery Hindi
